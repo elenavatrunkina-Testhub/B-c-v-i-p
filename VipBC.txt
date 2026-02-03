@@ -1,5 +1,5 @@
 #profile-update-interval: 3
-#profile-title: ViPОбходБС by тгк: @LowiK_Live
+#profile-title: ViP-Обход_БС
 vless://2fe7c90f-06f2-4ec3-97bf-eec6d5907ddd@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1
 vless://e07e2817-3760-4c8e-97e8-e7853025ef4d@188.225.33.108:443?security=reality&encryption=none&pbk=6I6-qYlY6rUY4BowDZzHpdfVPy6KvO4c2KC5QK3dMGQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=1a2b3c4d5e6f#%F0%9F%8C%90%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%202%20LTE
 vless://e07e2817-3760-4c8e-97e8-e7853025ef4d@217.16.26.17:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=6I6-qYlY6rUY4BowDZzHpdfVPy6KvO4c2KC5QK3dMGQ&fp=qq&type=xhttp&sni=sun6-21.userapi.com&sid=6af4b1c3#%F0%9F%93%B6%20%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%20%231
