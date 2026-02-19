@@ -2,11 +2,10 @@
 #subscription-always-hwid-enable: 1
 #hide-settings: 1
 #profile-title: ViP-Обход_БС
-#announce: Помни все правила и им следуй, поставь приложения из БС в исключения (Обход), также если не работают пробуй наладить Happ (ДНС, возможно Mux и фрагментацию и шум) либо жди фикса! Также если проблема опиши проблему в форуме (но без публикации своих ключей (это запрещено) и тп по правилам)! Кфг где написано РЕЗЕРВ используй в последний момент, и юзай кфг желательно сверху вниз(с начала по порядку)!
+#announce: Помни все правила и им следуй, поставь приложения из БС в исключения (Обход), также если не работают пробуй наладить Happ, либо жди фикса! Также если проблема опиши проблему в форуме (но без публикации своих ключей (это запрещено) и тп по правилам)! Кфг где написано РЕЗЕРВ используй в последний момент, и юзай кфг желательно сверху вниз(с начала по порядку)!
 #support-url: https://t.me/LowiKForum
 #profile-web-page-url: https://t.me/LowiK_Live
 
-vless://ТолькоHapp@ТолькоHapp:1488?security=none&encryption=none&host=%D0%A2%D0%93%D0%9A%3A%20%40LowiK_Live&headerType=none&type=tcp#%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%20Happ%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%21
 vless://14e1057f-6ad8-46f0-9ff8-a380a8b81480@gam1.skystreamgame.com:8080?mode=auto&path=%2F&security=reality&encryption=none&extra=%7BscMaxEachPostBytes%3D1000000.0%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20noGRPCHeader%3Dfalse%7D&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&fp=chrome&type=xhttp&sni=ozon.ru&sid=6d6f13013d3e1d0c#test
 vless://2679a4d5-f9b3-45a4-95d5-2e3ac7533257@151.236.114.197:6443?security=reality&encryption=none&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&headerType=none&fp=qq&spx=%2F&type=tcp&sni=max.ru&sid=f3e8b2b1#%F0%9F%87%B3%F0%9F%87%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%E2%9A%A1%EF%B8%8F
 vless://2679a4d5-f9b3-45a4-95d5-2e3ac7533257@84.201.175.229:3443?security=reality&encryption=none&pbk=FO7_7vro_EQYkCcCdEUru3Ia9yBGoxmrdPq_5dUPQV4&headerType=none&fp=qq&spx=%2F&type=tcp&sni=max.ru&sid=87cae052bda59236#%F0%9F%87%B3%F0%9F%87%B1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20LTE%20%F0%9F%8C%9E
